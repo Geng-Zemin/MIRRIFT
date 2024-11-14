@@ -21,6 +21,6 @@ This software is for academic research purposes only and may not be used for com
 
 # Contact Information
 
-If you have any questions or suggestions, feel free to contact us at:
+If you have any questions or suggestions, please contact us at:
 >Author: Geng Zemin
 >Contact Email：gengzemin@whu.edu.cn
