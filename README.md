@@ -6,7 +6,7 @@ MIRRIFT is a matching method for multi-modal images with rotation and resolution
 
 # Usage
 
-his program requires the installation of the MATLAB environment. For installation instructions, please refer to readme.txt. After installation is complete, simply click MIRRIFT_Matlab.exe to run the program.
+This program requires the installation of the MATLAB environment. For installation instructions, please refer to readme.txt. After installation is complete, simply click MIRRIFT_Matlab.exe to run the program.
 
 ## Button Description
 
