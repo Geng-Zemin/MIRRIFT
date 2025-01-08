@@ -19,13 +19,23 @@ This program requires the installation of the MATLAB environment. For installati
 
 This software is for academic research purposes only and may not be used for commercial purposes.
 
-#Example result image
-![image](https://github.com/Geng-Zemin/MIRRIFT/blob/main/Data/ResultsExample/Day_Night.png)
-![image](https://github.com/Geng-Zemin/MIRRIFT/blob/main/Data/ResultsExample/Opt-Infrared.jpg)
-![image](https://github.com/Geng-Zemin/MIRRIFT/blob/main/Data/ResultsExample/Opt-Map.png)
-![image](https://github.com/Geng-Zemin/MIRRIFT/blob/main/Data/ResultsExample/Opt-SAR.png)
-![image](https://github.com/Geng-Zemin/MIRRIFT/blob/main/Data/ResultsExample/Opt_Opt.png)
-![image](https://github.com/Geng-Zemin/MIRRIFT/blob/main/Data/ResultsExample/Optical_DEM.jpg)
+# Example result image
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Geng-Zemin/MIRRIFT/blob/main/Data/ResultsExample/Day_Night.png" width="48%" />
+    <img src="https://github.com/Geng-Zemin/MIRRIFT/blob/main/Data/ResultsExample/Opt-Infrared.jpg" width="48%" />
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Geng-Zemin/MIRRIFT/blob/main/Data/ResultsExample/Opt-Map.png" width="48%" />
+    <img src="https://github.com/Geng-Zemin/MIRRIFT/blob/main/Data/ResultsExample/Opt-SAR.png" width="48%" />
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Geng-Zemin/MIRRIFT/blob/main/Data/ResultsExample/Opt_Opt.png" width="48%" />
+    <img src="https://github.com/Geng-Zemin/MIRRIFT/blob/main/Data/ResultsExample/Optical_DEM.jpg" width="48%" />
+</div>
+
 
 # Contact Information
 
