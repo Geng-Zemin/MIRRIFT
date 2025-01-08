@@ -19,6 +19,14 @@ This program requires the installation of the MATLAB environment. For installati
 
 This software is for academic research purposes only and may not be used for commercial purposes.
 
+#Example result image
+![image](https://github.com/Geng-Zemin/MIRRIFT/blob/main/Data/ResultsExample/Day_Night.png)
+![image](https://github.com/Geng-Zemin/MIRRIFT/blob/main/Data/ResultsExample/Opt-Infrared.jpg)
+![image](https://github.com/Geng-Zemin/MIRRIFT/blob/main/Data/ResultsExample/Opt-Map.png)
+![image](https://github.com/Geng-Zemin/MIRRIFT/blob/main/Data/ResultsExample/Opt-SAR.png)
+![image](https://github.com/Geng-Zemin/MIRRIFT/blob/main/Data/ResultsExample/Opt_Opt.png)
+![image](https://github.com/Geng-Zemin/MIRRIFT/blob/main/Data/ResultsExample/Optical_DEM.jpg)
+
 # Contact Information
 
 If you have any questions or suggestions, please contact us at:
